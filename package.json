@@ -1,0 +1,19 @@
+{
+  "name": "node_trilha_2023_desafio_01",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Renan Pereira Loureiro",
+    "email": "renanloureiro.dev@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.3.3"
+  }
+}
